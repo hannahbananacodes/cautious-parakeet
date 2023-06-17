@@ -1,0 +1,53 @@
+
+.t1, .t1-header, .t1-name, .t1-age, th, td, table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: "Helvetica";
+    font-size: 15px;
+}
+
+.t1-header {
+    background-color: gray;
+    width: 80px;
+    text-align: left;
+    
+}
+
+.t1-name {
+    background-color: darkgray;
+}
+
+.t1-age {
+    text-align: right;
+}
+
+.t2-header {
+    padding: 10px;
+    background-color: darkgray;
+}
+
+.t2-data {
+    padding: 5px;
+    background-color: lightgray;
+}
+
+#animals, .t3-header {
+    background-color: gray;
+}
+
+tbody {
+    font-style: italic;
+}
+
+tfoot {
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+.t3-dark {
+    background-color: lightgray;
+}
+
+.width {
+    width: 100px;
+}
